@@ -17,7 +17,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="https://github.com/shanibxd">
-    <img src="https://readme-typing-svg.demolab.com?font=Staatliches&color=0A0089&size=28&width=350&lines=This+is+SH4NIB+XD;come+here+again;Thanks+for+visiting+Here" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Staatliches&color=0A0089&size=28&width=350&lines=This+is+SHANIB+XD;come+here+again;Thanks+for+visiting+Here" alt="Typing SVG" />
   </a>
 </p>
 
