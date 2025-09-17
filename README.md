@@ -5,8 +5,7 @@
 
 
 
-[![My Card](https://cardivo.vercel.app/api?name=SHANIB-XD&description=WELCOME+TO+MY+PROFILE&image=https%3A%2F%2Fmedia-hosting.imagekit.io%2F03a348006ac247c8%2FIMG_2066.JPG%3FExpires%3D1839149537%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DEvmmfTXq1fHJ0d81Iy2V1CRLz8WXrHIxfmTPBxQtzMfBdKbgMVApqpiqs-yA36F9zsU8QWfHBKq4qXGeNEN-NItu6eSz~FJz-wR9b-IQNJOfCcR7mh71GPlgzoFWf8s1RvuSld7PlNUWEtavOzuPE44EaMtQ5LJ5bQU5RUbLlpBhZFcKgD3FUF353mc7gKoBTfQA10PxBGRkAiFKy~Fu~NuLssqXHy7QJW6QleUIQbv83FVZl5pHruGFs3NTwLB2RFSgk-cY2-DCpQNYJKb-Axc030HlI~FB7k36Wv4IIQ18CZOPd3-ifJRyZUtxhOySEZS4XMvJYyLgc4k0vobFLw__&backgroundColor=%23e4f2f6&INSTAGRAM=https://www.instagram.com/shanib.xd&github=https://github.com/shanibxd)](https://github.com/shanibxd)   
-
+![My card name](https://cardivo.vercel.app/api?name=SHANIB-XD%20&description=WELCOME+TO+MY+PROFILE&image=https://i.imgur.com/QEt7Iv0.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=shanib.xd&github=shanibbb&)
 
 🔗 [Instagram](https://www.instagram.com/shanib.xd) | [GitHub](https://github.com/shanibxd)
 
