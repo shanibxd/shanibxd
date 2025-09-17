@@ -5,7 +5,7 @@
 
 
 
-![My card name](https://cardivo.vercel.app/api?name=SHANIB-XD%20&description=WELCOME+TO+MY+PROFILE&image=https://image2url.com/images/1758129878562-1cf07dfc-a2e4-478c-9845-6c66969b7c4f.jpg&instagram=shanib.xd&github=shanibbb&)
+![My card name](https://cardivo.vercel.app/api?name=SHANIB-XD%20&description=WELCOME+TO+MY+PROFILE&image=[https://i.imgur.com/QEt7Iv0.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4](https://image2url.com/images/1758129878562-1cf07dfc-a2e4-478c-9845-6c66969b7c4f.jpg)&backgroundColor=%23e4f2f6&instagram=shanib.xd&github=shanibbb&)
 
 🔗 [Instagram](https://www.instagram.com/shanib.xd) | [GitHub](https://github.com/shanibxd)
 
