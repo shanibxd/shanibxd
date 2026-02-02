@@ -1,6 +1,6 @@
 
 <p align="center">
-  © 2025 <a href="https://github.com/shanibxd">SHANIB-XD</a>. All rights reserved.
+  © 2023 <a href="https://github.com/shanibxd">SHANIB-XD</a>. All rights reserved.
 </p>
 
 
