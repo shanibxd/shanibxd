@@ -97,6 +97,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanibxd&show_icons=true&locale=en&layout=compact" alt="shanibxd" />
 </p> <br>
 <p><a href="https://www.buymeacoffee.com/shanibxd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shanibxd" /></a></p><br><br>
-
+![snake gif](https://github.com/shanibxd/shanibxd/blob/output/github-snake-dark.svg)
 
 <p align="left">
