@@ -93,7 +93,8 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanibxd&layout=compact&theme=tokyonight" /> <br>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanibxd&theme=tokyo-night) <br>
+
 <p><a href="https://www.buymeacoffee.com/shanibxd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shanibxd" /></a></p><br><br>
 
 
